@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="7-file-upload-eunjamg">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <dependent-module archiveName="cos.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/408/Desktop/자바 웹해킹 20231793 전은장/7-file-upload-eunjamg/src/main/webapp/WEB-INF/lib/cos.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <property name="context-root" value="7-file-upload-eunjamg"/>
+        <property name="java-output-path" value="/7-file-upload-eunjamg/build/classes"/>
+    </wb-module>
+</project-modules>
