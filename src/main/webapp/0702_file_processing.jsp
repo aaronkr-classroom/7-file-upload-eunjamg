@@ -12,7 +12,7 @@
          "C:\\upload",
          5*1024*1024,
          "utf-8",
-         new DefaultFileRenamePolicy(),
+         new DefaultFileRenamePolicy();
          );
 
    String title = multi.getParameter("title");
